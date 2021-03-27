@@ -1,6 +1,6 @@
 # Simple Multilingual Blog Profile for ProcessWire 3x
 
-This site profile for ProcessWire offers a simple and responsive blog which doesn't require any third-party modules. It works exclusively based on some template files. It's identical to the **Simple Blog Profile** with only two exceptions. This site profile supports multiple languages for each post and the navigation is slightly different due to the language selector.
+This site profile for ProcessWire offers a simple, multilingual and responsive blog which doesn't require any third-party modules. It works exclusively based on some template files. It's identical to the **Simple Blog Profile** with only two exceptions. This site profile supports multiple languages for each post and the navigation is slightly different due to the language selector.
 
 !["Screenshot"](https://tech-c.net/site/assets/files/1198/screenshot-500.jpg)
 
