@@ -11,7 +11,7 @@ This site profile is intended for use with a fresh installation of ProcessWire.
 3. Start the installation.
 4. When prompted for Site Installation Profile select **Simple Multilingual Blog Profile for ProcessWire 3x** and continue with installation.
 
-!["Installation"](https://tech-c.net/site/assets/files/1200/installation.jpg)
+!["Installation"](https://tech-c.net/site/assets/files/1199/installation.jpg)
 
 ## Setup
 There are no settings for this blog. Everything is ready after installation. You just have to fill it with content and maybe add some new pages.
