@@ -1,0 +1,27 @@
+{
+    "file": "site\/templates\/simple-contact-form.php",
+    "textdomain": "site--templates--simple-contact-form-php",
+    "translations": {
+        "4a0bc3e49e25d5dac07728bafabbb90c": {
+            "text": "Einige Details sind falsch. Bitte \u00fcberpr\u00fcfen Sie die roten Felder."
+        },
+        "6e0ae27d8a150b85564b4e527472046b": {
+            "text": "Nachricht erhalten."
+        },
+        "4ec7539f076c8ae3d69505e8f1b6fd17": {
+            "text": "Ein Fehler ist aufgetreten. Ihre Nachricht konnte nicht gesendet werden. Bitte versuchen Sie es sp\u00e4ter noch einmal."
+        },
+        "ce8ae9da5b7cd6c3df2929543a9af92d": {
+            "text": "E-Mail"
+        },
+        "4c2a8fe7eaf24721cc7a9f0175115bd4": {
+            "text": "Nachricht"
+        },
+        "e9cb217697088a98b1937d111d936281": {
+            "text": "Dateianhang"
+        },
+        "a4d3b161ce1309df1c4e25df28694b7b": {
+            "text": "Absenden"
+        }
+    }
+}
