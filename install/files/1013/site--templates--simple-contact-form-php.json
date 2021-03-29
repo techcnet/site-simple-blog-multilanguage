@@ -1,0 +1,30 @@
+{
+    "file": "site\/templates\/simple-contact-form.php",
+    "textdomain": "site--templates--simple-contact-form-php",
+    "translations": {
+        "4a0bc3e49e25d5dac07728bafabbb90c": {
+            "text": "Jotkut yksityiskohdat ovat v\u00e4\u00e4ri\u00e4. Tarkista punaiset kent\u00e4t."
+        },
+        "6e0ae27d8a150b85564b4e527472046b": {
+            "text": "Viesti vastaanotettu."
+        },
+        "4ec7539f076c8ae3d69505e8f1b6fd17": {
+            "text": "Tapahtui virhe. Viesti\u00e4si ei voitu l\u00e4hett\u00e4\u00e4. Yrit\u00e4 uudelleen my\u00f6hemmin."
+        },
+        "49ee3087348e8d44e1feda1917443987": {
+            "text": "Nimi"
+        },
+        "ce8ae9da5b7cd6c3df2929543a9af92d": {
+            "text": "S\u00e4hk\u00f6posti"
+        },
+        "4c2a8fe7eaf24721cc7a9f0175115bd4": {
+            "text": "Viesti"
+        },
+        "e9cb217697088a98b1937d111d936281": {
+            "text": "Liite"
+        },
+        "a4d3b161ce1309df1c4e25df28694b7b": {
+            "text": "L\u00e4het\u00e4"
+        }
+    }
+}
