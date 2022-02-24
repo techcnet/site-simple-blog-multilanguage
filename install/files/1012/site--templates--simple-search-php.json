@@ -1,0 +1,15 @@
+{
+    "file": "site\/templates\/simple-search.php",
+    "textdomain": "site--templates--simple-search-php",
+    "translations": {
+        "ccde5dd5c16380304dda5ac36593934d": {
+            "text": "Keine Suchresultate gefunden."
+        },
+        "094b9feaf4c539d505e68f86cf2e36fc": {
+            "text": "%s Seiten passend zu Ihrer Anfrage:"
+        },
+        "ca1b12f70c0a8471440324a11e4590af": {
+            "text": "Passend"
+        }
+    }
+}
