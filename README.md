@@ -9,7 +9,7 @@ This site profile is intended for use with a new installation of ProcessWire.
 1. [Download ProcessWire](https://processwire.com/download/core/ "Download ProcessWire"), extract all files and folders and upload it into your web server folder.
 2. [Download the site profile](https://processwire.com/modules/site-simple-blog-multilanguage/ "Download the site profile"), extract the **site-simple-blog-multilanguage** folder and upload it into the same folder.
 3. Start the installation.
-4. When prompted for Site Installation Profile select **Simple Multilingual Blog Profile for ProcessWire 3x** and continue with installation.
+4. When prompted for Site Installation Profile select **Simple and Multilingual Blog Profile for ProcessWire 3x** and continue with installation.
 
 !["Installation"](https://tech-c.net/site/assets/files/1200/installation.jpg)
 
