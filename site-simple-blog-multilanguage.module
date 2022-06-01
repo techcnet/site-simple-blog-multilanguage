@@ -6,7 +6,7 @@
  *
  * @author tech-c.net
  * @license Licensed under GNU/GPL v2
- * @version 1.0.2
+ * @version 1.0.3
  */
 
 class site-simple-blog-multilanguage implements Module{
@@ -15,6 +15,6 @@ class site-simple-blog-multilanguage implements Module{
       'title' => 'Simple and Multilingual Blog Profile for ProcessWire 3x',
       'summary' => 'This site profile for ProcessWire offers a simple, multilingual and responsive blog which does not require any module. It works exclusively with some template files.',
       'author' => 'tech-c.net',
-      'version' => 102);
+      'version' => 103);
   }
 }
