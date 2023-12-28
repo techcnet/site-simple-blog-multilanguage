@@ -1,0 +1,25 @@
+<?php namespace ProcessWire;
+
+/**
+ * Simple and Multilingual Blog Profile for ProcessWire 3x
+ * This site profile for ProcessWire offers a simple, multilingual and responsive blog which doesn't require any module. It works exclusively with some template files.
+ *
+ * @author tech-c.net
+ * @license Licensed under GNU/GPL v2
+ * @link https://tech-c.net/posts/simple-multilingual-blog-profile-for-processwire/
+ * @version 1.0.5
+ * 
+ * @see Forum Thread: https://processwire.com/talk/topic/26815-simple-and-multilingual-blog-profile-for-processwire-3x/
+ * @see Donate: https://tech-c.net/donation/
+ */
+
+class site-simple-blog-multilanguage implements Module{
+  public static function getModuleInfo() {
+    return array(
+      'title' => 'Simple and Multilingual Blog Profile for ProcessWire 3x',
+      'summary' => 'This site profile for ProcessWire offers a simple, multilingual and responsive blog which does not require any module. It works exclusively with some template files.',
+      'href' => 'https://tech-c.net/posts/simple-multilingual-blog-profile-for-processwire/',
+      'author' => 'tech-c.net',
+      'version' => 105);
+  }
+}
